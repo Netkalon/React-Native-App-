@@ -16,4 +16,3 @@ Using open API - https://www.omdbapi.com/?apikey=5965b084&t=iron+man&y=2008
 ![8rfhwkTjgN](https://user-images.githubusercontent.com/63945376/202686006-92268f2b-1c0f-4dc0-a9a0-cfb1733d3de5.png)
 
 
-[Mobile App.pptx](https://github.com/Netkalon/React-Native-App-/files/10040568/Mobile.App.pptx)
